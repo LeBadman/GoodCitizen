@@ -8,6 +8,7 @@
 // @downloadURL https://raw.githubusercontent.com/LeBadman/GoodCitizen/master/GoodCitizen.js
 // @match        https://www.youtube.com/watch*
 // @connect     github.com
+// @connect     raw.githubusercontent.com
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
