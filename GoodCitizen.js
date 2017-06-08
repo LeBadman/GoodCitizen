@@ -9,12 +9,6 @@
 // @match        https://www.youtube.com/watch*
 // @connect     github.com
 // @connect     raw.githubusercontent.com
-// @grant        GM_xmlhttpRequest
-// @grant        GM_getValue
-// @grant        GM_setValue
-// @grant        GM_listValues
-// @grant        GM_deleteValue
-// @grant        GM_addStyle
 // @icon         http://image.noelshack.com/fichiers/2017/23/1496790392-goodcitizen.png
 // ==/UserScript==
 
